@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1763241116 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\compras.cpp
+	<iostream>
+	<cstdio>
+	"Compras.h"
+	<map>
+	<string>
+	"rlutil.h"
+
+1763241006 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\compras.h
+	"Fecha.h"
+	"GestorArchivoProductos.h"
+	"Producto.h"
+
+1759780180 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\fecha.h
+
+1761188884 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\gestorarchivoproductos.h
+	"showitem.h"
+	"Proveedor.h"
+	"GestorProductos.h"
+
+1760584018 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\showitem.h
+
+1759596840 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\proveedor.h
+
+1763655592 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\gestorproductos.h
+	"Producto.h"
+
+1761193686 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\producto.h
+
+1760380104 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1763237762 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Fecha.h"
+
+1763226920 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\gestorarchivoproductos.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<vector>
+	"GestorArchivoProductos.h"
+	"rlutil.h"
+
+1760217266 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\gestorarchivoproveedor.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"GestorArchivoProveedor.h"
+	"rlutil.h"
+
+1759894154 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\gestorarchivoproveedor.h
+	"GestorProveedor.h"
+	"GestorProductos.h"
+
+1759346764 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\gestorproveedor.h
+	"Proveedor.h"
+
+1759595278 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\gestorcompras.cpp
+	<iostream>
+	"GestorCompras.h"
+	<cstdio>
+
+1759468502 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\gestorcompras.h
+	"Compras.h"
+	"Fecha.h"
+
+1763655684 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\gestorproductos.cpp
+	<iostream>
+	"GestorProductos.h"
+	<cstdio>
+	<limits>
+	"rlutil.h"
+
+1759349130 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\gestorproveedor.cpp
+	<iostream>
+	"GestorProveedor.h"
+
+1760227060 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\main.cpp
+	<iostream>
+	"Menu.h"
+	"rlutil.h"
+
+1760587732 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\menu.h
+	"showitem.h"
+	"SubMenuCompras.h"
+	"SubMenuProductos.h"
+	"SubMenuProveedores.h"
+	"SubmenuReportes.h"
+
+1761696240 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\submenucompras.h
+	"showitem.h"
+	"GestorCompras.h"
+
+1760586626 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\submenuproductos.h
+	"showitem.h"
+	"GestorArchivoProductos.h"
+	"GestorProductos.h"
+
+1760585958 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\submenuproveedores.h
+	"showitem.h"
+	"GestorArchivoProveedor.h"
+	"GestorArchivoProductos.h"
+
+1760587668 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\submenureportes.h
+	"Reportes.h"
+	"showitem.h"
+
+1763656319 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\reportes.h
+	"GestorCompras.h"
+
+1760587874 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\menu.cpp
+	<iostream>
+	"Menu.h"
+	<cstring>
+	<string>
+	"rlutil.h"
+
+1763656000 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\producto.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	<cctype>
+	"Producto.h"
+	"Utilidades.h"
+	"rlutil.h"
+
+1759980060 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\utilidades.h
+	<cctype>
+	<cstring>
+
+1760217694 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\proveedor.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<limits>
+	<cctype>
+	"Proveedor.h"
+	"Utilidades.h"
+
+1763656934 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\reportes.cpp
+	<iostream>
+	<cstdio>
+	"Reportes.h"
+	"rlutil.h"
+	"Validaciones.h"
+	<limits>
+	<vector>
+	<algorithm>
+	<map>
+
+1763411858 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\validaciones.h
+
+1760583996 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\showitem.cpp
+	<iostream>
+	"rlutil.h"
+	"showitem.h"
+
+1763655662 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\submenucompras.cpp
+	<iostream>
+	"SubMenuCompras.h"
+	"rlutil.h"
+	"Validaciones.cpp"
+	"Validaciones.h"
+
+1763411845 c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\validaciones.cpp
+	<iostream>
+	<string>
+	<limits>
+	"Validaciones.h"
+
+1763153842 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\submenuproveedores.cpp
+	<iostream>
+	"rlutil.h"
+	"SubMenuProveedores.h"
+
+1763656791 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\submenureportes.cpp
+	"rlutil.h"
+	<iostream>
+	"SubMenuReportes.h"
+
+1763655417 source:c:\users\pc-14\desktop\tp validado\tp validado\final\tp1\submenuproductos.cpp
+	"rlutil.h"
+	<iostream>
+	"SubMenuProductos.h"
+	<limits>
+
